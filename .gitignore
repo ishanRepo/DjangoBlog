@@ -5,7 +5,6 @@ __pycache__
 
 # Env
 .env
-myvenv/
 myenv/
 env/
 
@@ -32,5 +31,3 @@ $RECYCLE.BIN/
 .vscode/
 .history/
 *.code-workspace
-
-myenv/
